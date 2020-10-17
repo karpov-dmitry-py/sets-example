@@ -1,2 +1,2 @@
-# sets-example
-python sets handling example
+# data generating and processing
+generating arbitrary data and processing it
